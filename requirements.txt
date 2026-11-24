@@ -1,0 +1,10 @@
+torch>=2.2
+transformers>=4.45
+gradio>=5.0
+huggingface_hub
+scikit-learn
+pandas
+matplotlib
+tabulate
+onnx
+onnxruntime

@@ -1,0 +1,4 @@
+# the fine-tuned model (255 MB) lives on the Hugging Face Hub, not in git
+model/
+__pycache__/
+.ipynb_checkpoints/
